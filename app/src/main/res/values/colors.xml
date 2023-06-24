@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_black">#FF25282B</color>
+    <color name="text_grey">#FFA0A4A8</color>
+    <color name="editText_color">#FFF6F6F6</color>
+    <color name="editText_hint">#FFCACCCF</color>
+    <color name="blue">#FF4485FD</color>
+    <color name="Doctor_BG">#FFEAEAEA</color>
+    <color name="TextGrey">#FFAAAAAA</color>
+    <color name="green">#FF00CC6A</color>
+    <color name="openBg">#FFCCF5E1</color>
+    <color name="line">#80CACCCF</color>
+    <color name="appointment">#FFF9F9FA</color>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ExamApp_DoctorApp</string>
+    <string name="Find">Find </string>
+    <string name="your_doctor">your doctor</string>
+    <string name="searchText">Search doctor, medicines etc</string>
+    <string name="Consultation">Consultation</string>
+    <string name="Dental">Dental</string>
+    <string name="Heart">Heart</string>
+    <string name="Hospitals">Hospitals</string>
+    <string name="Medicines">Medicines</string>
+    <string name="Physician">Physician</string>
+    <string name="Skin">Skin</string>
+    <string name="Surgeon">Surgeon</string>
+    <string name="Top_doctors">Top Doctors</string>
+    <string name="ViewAll">View All</string>
+    <string name="drName">dr. Gilang Segara Bening</string>
+    <string name="hospital">Persahabatan Hospital</string>
+    <string name="open">Open</string>
+    <string name="desc">dr. Gilang is one of the best doctors in the Persahabatan Hospital. He has saved more than 1000 patients in the past 3 years. He has also received many awards from domestic and abroad as the best doctors. He is available on a private or schedule. </string>
+</resources>
